@@ -1,0 +1,8 @@
+.env
+.git
+.github
+node_modules
+drizzle
+eslint.config.js
+drizzle.config.js
+.gitignore
